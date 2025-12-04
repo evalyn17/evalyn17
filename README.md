@@ -1,6 +1,8 @@
-
-📚 CS Degree in process
-
+## About me ✨
+Hi! I'm Evalyn 🌸
+📚 CS Degree in process @ Sheridan College
+💻 Interested in cloud computing
+🌱 Still tryna learn
 
 <!--
 **evalyn17/evalyn17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
