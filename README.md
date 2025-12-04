@@ -1,4 +1,4 @@
-## Hi there 👋
+
 📚 CS Degree in process
 
 
