@@ -3,8 +3,9 @@
 💻 Interested in software development and cloud computing <br>
 🌱 Still learning <br>
 
-Languages: 
- Python, C#, JavaScript, SQL <br>
+Languages: Python, C#, JavaScript, SQL <br>
+Cloud & Infrastructure: AWS, Docker, Kubernetes <br>
+
  
 
 
