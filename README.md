@@ -1,7 +1,10 @@
-### About me ✨
-Hi! I'm *Evalyn* 🌸 <br>
-📚 CS Degree in process @ Sheridan College <br>
-💻 Interested in cloud computing <br>
+### Hi! I'm Evalyn ✨
+🎓 CS Degree in process @ Sheridan College <br>
+💻 Interested in software development and cloud computing <br>
 🌱 Still learning <br>
+
+Languages: 
+ Python, C#, JavaScript, SQL <br>
+ 
 
 
