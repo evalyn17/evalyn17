@@ -8,7 +8,7 @@
 Python · C · C# · JavaScript · SQL · HTML & CSS <br>
 
 ### ☁️ Cloud & Infrastructure
-AWS · Docker · Kubernetes <br>
+AWS · Docker  <br>
 
  
 
