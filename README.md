@@ -4,7 +4,7 @@
 💻 Interested in Software Development and Cloud Computing <br>
 🌱 Always learning <br>
 
-### 💻 Languages
+### 💫 Languages
 Python · C · C# · JavaScript · SQL · HTML & CSS <br>
 
 ### ☁️ Cloud & Infrastructure
