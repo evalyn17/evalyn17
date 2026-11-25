@@ -4,7 +4,7 @@
 🌱 Always learning <br>
 
 ### 💻 Languages
-Python · C# · JavaScript · SQL <br>
+Python · C/C# · JavaScript · SQL · HTML & CSS <br>
 
 ### ☁️ Cloud & Infrastructure
 AWS · Docker · Kubernetes <br>
