@@ -1,10 +1,13 @@
-### Hi! I'm Evalyn ✨
-🎓 CS Degree in process @ Sheridan College <br>
-💻 Interested in software development and cloud computing <br>
-🌱 Still learning <br>
+### Hi! I'm Evalyn 🌸
+🎓 Computer Science @ Sheridan College <br>
+💻 Interested in Software Development and Cloud Computing <br>
+🌱 Always learning <br>
 
-Languages: Python, C#, JavaScript, SQL <br>
-Cloud & Infrastructure: AWS, Docker, Kubernetes <br>
+### 💻 Languages
+Python · C# · JavaScript · SQL <br>
+
+### ☁️ Cloud & Infrastructure
+AWS · Docker · Kubernetes <br>
 
  
 
